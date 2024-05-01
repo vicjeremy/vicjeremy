@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm currently studying 2nd-year information systems 
+- 🌱 I'm currently learning full-stack laravel
+- 📫 How to reach me: @viccjeremy on Instagram
 <!--
 **vicjeremy/vicjeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
