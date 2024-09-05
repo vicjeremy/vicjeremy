@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently studying 2nd-year information systems 
+- 🔭 I'm currently studying 3rd-year information systems 
 - 🌱 I'm currently learning Python Web Developer at SoftUni Indonesia
 - 📫 How to reach me: @viccjeremy on Instagram
 <!--
