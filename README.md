@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I'm currently studying 3rd-year information systems 
-- 🌱 I'm currently learning Python Web Developer at SoftUni Indonesia
+- 🔭 I'm currently studying 3rd-year information systems at National University of Karangturi, Semarang
+- 🌱 I'm currently learning Python Web Developer at Software University (SoftUni Indonesia)
 - 📫 How to reach me: @viccjeremy on Instagram
 <!--
 **vicjeremy/vicjeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
