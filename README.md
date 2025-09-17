@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vicjeremyp@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/vicjeremy](www.linkedin.com/in/vicjeremy)
+- 📄 Know about my experiences [www.linkedin.com/in/vicjeremy](https://www.linkedin.com/in/vicjeremy)
 
 - ⚡ Fun fact **I embrace new challenges**
 
