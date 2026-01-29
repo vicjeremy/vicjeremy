@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vic Jeremy</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
-<h3 align="center"> See my Curriculum Vitae in <a href="https://vicjeremy.github.io/CV_Vic%20Jeremy%20Prajogo.pdf">HERE</a> </h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+<!-- <h3 align="center"> See my Curriculum Vitae in <a href="https://vicjeremy.github.io/CV_Vic%20Jeremy%20Prajogo.pdf">HERE</a> </h3> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicjeremy&label=Profile%20views&color=2dbdc8&style=flat" alt="vicjeremy" /> </p>
 
 
 
-- 🌱 I’m currently learning **Go (Golang)**
 
-- 💬 Ask me about **Go, PHP, Python**
+- 💬 Ask me about **Python & PHP (Laravel)**
 
 - 📫 How to reach me **vicjeremyp@gmail.com**
 
