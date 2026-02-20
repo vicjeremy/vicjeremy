@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **Python & PHP (Laravel)**
+- 💬 Ask me about **Python, Go & PHP (Laravel)**
 
 - 📫 How to reach me **vicjeremyp@gmail.com**
 
